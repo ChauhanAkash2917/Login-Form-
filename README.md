@@ -40,6 +40,7 @@ The layout is centered and scales beautifully on different screen sizes.
 Rounded inputs, hover effects, gradients, and a soft glow elevate the experience.
 
 **🧾 Tech Stack:**
+
 🌐 HTML5 – For markup
 
 🎨 CSS3 – For styling, layout, and effects
@@ -47,6 +48,7 @@ Rounded inputs, hover effects, gradients, and a soft glow elevate the experience
 🖼️ Image Assets – For the galaxy background
 
 **📸 UI Snapshot:**
+
 A centered login form with these key UI components:
 
 ✅ Rounded input boxes
@@ -60,6 +62,7 @@ A centered login form with these key UI components:
 ✅ Register and forgot-password links aligned smartly
 
 **🚀 How to Use:**
+
 🖼️ Replace background.png with your desired high-res space image.
 
 🖥️ Open index.html in a browser.
@@ -67,6 +70,7 @@ A centered login form with these key UI components:
 ✏️ Customize field names or add validations with JavaScript (optional).
 
 **🧠 Good For:**
+
 Sci-fi Games 🎮
 
 Portfolio Sites 🧑‍🚀
